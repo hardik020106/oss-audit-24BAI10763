@@ -9,7 +9,7 @@
 |-------|---------|
 | Name | Hardik Sikka |
 | Registration Number | 24BAI10763|
-| Slot | B22 |
+| Slot | E11 |
 | Software Audited | Git |
 | License | GPL v2 |
 
